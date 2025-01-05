@@ -1,8 +1,8 @@
 # Site settings
-title: Portfolio
+title: Rodrigo Maidana
 email:  ro-maidana@hotmail.com
 url: https://github.com/rodrigo-maidana
-description: "Soy Rodrigo Maidana, tengo 23 años y soy estudiante de séptimo semestre en la Universidad Nacional de Itapúa en Encarnación, Paraguay. Soy desarrollador backend especializado en Java Spring Boot, con experiencia en la creación de APIs, autenticación JWT y gestión de datos con MySQL y PostgreSQL. Tengo conocimientos básicos de React y experiencia en el despliegue de aplicaciones en Azure."
+description: ""
 keywords: "your keywords, separated by commas"
 skills: "Desarrollador Spring Boot"
 meta_author: Maidana Rodrigo
